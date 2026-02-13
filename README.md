@@ -8,8 +8,8 @@
 ## 🔥 رِکورد فعالیت
 ![GitHub Streak](https://streak-stats.demolab.com?user=amiralisori&theme=radical)
 
-## 🐍 ماری که کانتریبیوشن‌هامو می‌خوره!
-![Snake animation](https://github.com/amiralisori/amiralisori/blob/output/snake.svg)
+## 🐍 ماری که کانتریبیوشن‌هامو
+![Snake animation](https://raw.githubusercontent.com/amiralisori/amiralisori/output/snake.svg)
 
 ## 🛠 مهارت‌ها و ابزارهایی که بیشتر استفاده می‌کنم
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

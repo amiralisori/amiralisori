@@ -1,29 +1,26 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # هر روز ساعت 00:00 اجرا میشه
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
-  contents: write   # خیلی مهم برای پوش کردن فایل
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate snake.svg
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: amiralisori
           outputs: dist/snake.svg
 
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

@@ -15,7 +15,6 @@
 - 💬 هر سوالی درباره **پایتون شی‌گرا** داری، بپرس
 - 📫 چطور به من برسی **amyrlyswry7@gmail.com**
 - ⚡ حقیقت جالب: به Blockchain ساده‌سازی چیزای پیچیده علاقه دارم!
-
 ---
 
 ## 🛠 مهارت‌ها و ابزارها
@@ -63,7 +62,7 @@
 
 <p align="center">
   <a href="https://amiralisori.ir">
-    <img src="https://img.shields.io/badge/Website-f209b4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-220ff4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/amiralisori">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -79,7 +78,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amiralisori&color=ff69b4&style=flat-square&label=تعداد+بازدید+از+پروفایل" />
+  <img src="https://komarev.com/ghpvc/?username=amiralisori&color=030f56&style=flat-square&label=تعداد+بازدید+از+پروفایل" />
 </div>
 
 ---

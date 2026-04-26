@@ -78,7 +78,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amiralisori&color=030f56&style=flat-square&label=تعداد+بازدید+از+پروفایل" />
+  <img src="https://komarev.com/ghpvc/?username=amiralisori&color=039859&style=flat-square&label=تعداد+بازدید+از+پروفایل" />
 </div>
 
 ---

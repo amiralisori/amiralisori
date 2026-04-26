@@ -13,8 +13,8 @@
 ## 👨‍💻 درباره من
 - 🌱 در حال یادگیری عمیق **Multiple Inheritance** و **MRO** در پایتون
 - 💬 هر سوالی درباره **پایتون شی‌گرا** داری، بپرس
-- 📫 چطور به من برسی: **amiralisori@example.com** (ایمیلت رو اینجا بذار)
-- ⚡ حقیقت جالب: به markdown و ساده‌سازی چیزای پیچیده علاقه دارم!
+- 📫 چطور به من برسی **amyrlyswry7@gmail.com**
+- ⚡ حقیقت جالب: به Blockchain ساده‌سازی چیزای پیچیده علاقه دارم!
 
 ---
 
@@ -63,12 +63,12 @@
 
 <p align="center">
   <a href="https://amiralisori.ir">
-    <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-f209b4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/amiralisori">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:amiralisori@example.com">
+  <a href="mailto:amyrlyswry7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/amiralisori">
